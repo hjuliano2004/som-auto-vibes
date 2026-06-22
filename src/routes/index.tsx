@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useEffect } from "react";
 
-const WHATSAPP = "https://wa.me/5547740051110?text=" + encodeURIComponent("me interessei pelos serviços");
+const WHATSAPP = "https://wa.me/554774005110?text=" + encodeURIComponent("me interessei pelos serviços");
 
 const SITE_HTML = `
 <header class="js-header">
