@@ -718,7 +718,7 @@ footer {
 }
 
 /* RESPONSIVE */
-@media (max-width: 880px) {
+@media (max-width: 6in) {
   .nav {
     display: none;
     position: absolute;
